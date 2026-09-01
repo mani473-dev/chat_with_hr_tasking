@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaasobxbnyt6leddqdqoy5qwlkkn3xlbeeuqnhoqbmpdg6dzpj5635a
+tenancy=ocid1.tenancy.oc1..aaaaaaaagzu3lcjcvfjfub3ljnq7s5ci7ehevlsncxxty5snqeuo7xzqmbiq
+fingerprint=ef:c1:b6:10:61:3e:a1:ef:a0:ff:15:27:a6:af:1d:35
+region=eu-frankfurt-1
+key_file=E:\POC_SUPPLIER_VALIDATION_V1\anand@shahgaron.com-2026-03-27T10_14_32.879Z.pem
